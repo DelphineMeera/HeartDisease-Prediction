@@ -122,9 +122,14 @@ Dataset -  https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland
 Amazon S3 Bucket -   s3://heartdiseasedataset-bucket
 Exploratory Data Analysis was done using AWS Sagemaker.
 
+- [Dataset Analysis and Preparation](https://github.com/DelphineMeera/HeartDisease-Prediction/blob/main/ProjectFiles/Deliverable2/Deliverable2.ipynb)
+- [Dataset Analysis and Preparation PDF](https://github.com/DelphineMeera/HeartDisease-Prediction/blob/main/ProjectFiles/Deliverable2/Deliverable2.pdf)
+
+
 **DATA PREPARATION**
 
  Data preparation was conducted throughout the project. Data preparation involved activities like adding new features to predict the target variable, encoding categorical variables into numeric values, checking for any outliers or any missing values  in the data.
+
 
 ## _SECOND CHOICE - FATHOMNET 2023_
 
@@ -199,6 +204,9 @@ The analytics and machine learning involved in the heart disease dataset are as 
 3.Feature scaling: This is a technique used to standardize the range of independent variables of the data. In this dataset, feature scaling was performed using the StandardScaler from scikit-learn library to normalize the continuous variables.
 4.Model selection: This involves choosing the appropriate machine learning model that best fits the dataset. In this dataset, logistic regression, decision tree, and random forest models were selected.
 5.Model evaluation: This is the process of testing the performance of the selected model using various evaluation metrics. In this dataset, accuracy, precision, recall, f1-score, and ROC AUC score were used to evaluate the performance of the models.
+
+- [Dataset Analytics and ML Modeling](https://github.com/DelphineMeera/HeartDisease-Prediction/blob/main/ProjectFiles/Deliverable3/Deliverable3.ipynb)
+- [Dataset Analytics and ML Modeling PDF](https://github.com/DelphineMeera/HeartDisease-Prediction/blob/main/ProjectFiles/Deliverable3/Deliverable3.pdf)
 
    
 **EVALUATION AND OPTIMIZATION**
