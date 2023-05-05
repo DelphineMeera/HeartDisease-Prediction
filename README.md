@@ -233,6 +233,8 @@ For the scikit-learn implementation, evaluation metrics like ROC AUC score, F1 s
 In the pytorch implementation, the accuracy of the model averaged at around 75%, regardless of the hyperparameters used at the time, performing similarly to scikit-learn’s decision tree classifier. We attribute the neural network’s performance due to the relatively small dataset as well as its hyperparameters which haven’t been optimized to the fullest yet.
 In the neural network dropout is typically used to prevent overfitting the data, however, in our model the usage of dropout tended to lower the accuracy of the model. We attribute this to the neural network’s smaller size, which was effectively smaller with the usage of dropout and lowered the model’s consistent learning capabilities.
 
+[Project recording](https://github.com/DelphineMeera/HeartDisease-Prediction/blob/main/ProjectFiles/Deliverable3/ProjectRecording.mp4)
+
  **FUTURE WORKS AND COMMENTS**
 
 Each of the machine learning algorithms used in this project has a number of hyperparameters that can be tuned to optimize performance. The dataset contains a number of features that may be useful in predicting heart disease, there may be additional features that could improve the performance of the model. Our future work for the project is to find and engineer these features. 
@@ -244,7 +246,8 @@ Each of the machine learning algorithms used in this project has a number of hyp
 6. The code splits the data into training and testing sets, encodes the categorical features, and trains and evaluates three different models which are Logistic Regression, Decision Tree, and Random Forest, the individual can modify the code to try different models to see if they can achieve better performance.  To use the trained model on new data, the individual can replace the x_test and y_test variables with their own data and call the predict() method on the trained model to obtain predictions.
 7. Regarding the neural network, it’s long-term accuracy and optimization relies more on the overall architecture of the model rather than the hyperparameters. Due to inexperience and time constraints, the network is lacking in terms of state-of-the-art architecture implementations. In future work improvements to the architecture like utilizing residual and attention blocks, as well as other deep learning innovations, can definitely be used to improve the model’s long-term performance.
 
- 
+
+
  
  
 
