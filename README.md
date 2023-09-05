@@ -1,31 +1,4 @@
-**ITCS 6100 Big Data Analytics for Competitive Advantage**
-
-**Group 1**
-
-# **Project Deliverable 1: Group Formation and Project Understanding**
-
-
-### **TEAM MEMBERS**
-
-Delphine Antony Muthu - 801310101
-
-Kam Nanthanolath - 800983841
-
-Zahra Saghaie Dehkordi - 801212692
-
-### **COMMUNICATION PLAN**
-
-- Clarify roles and responsibilities: Ensure that everyone in the team understands their specific role and responsibilities. This can help avoid confusion or duplication of work.
-
-- Method of Communication: Utilize online tools and software for team communication, collaboration, and sharing of documents and files like Slack or Email
-
-- Regular team meetings: Set up a schedule for regular team meetings to discuss progress, upcoming tasks, and any issues or concerns. This can be a weekly meeting where team members can share their updates and brainstorm ideas.
-
-- Clear deadlines: Ensure that deadlines for tasks and projects are communicated clearly to all team members. This can help prevent delays and ensure that everyone is on the same page.
-
-- Monitor progress: Regularly monitor progress on tasks and projects to ensure that they are on track. This can help us identify potential issues early on and allow for adjustments to be made before it's too late.
-
-- Meeting Attendance: Meeting attendance is encouraged but not mandatory for all team members. If a team member is unable to attend, they should inform the team in advance.
+**Big Data Analytics for Competitive Advantage**
 
 ### **PROJECT ARTIFACT REPOSITORY**
 Our project work can be found in the public repository that has been created on Github.
